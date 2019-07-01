@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="81862ec9-c9ff-45a9-8b5c-ef0d050041e6" name="Default Changelist" comment="" />
+    <list default="true" id="81862ec9-c9ff-45a9-8b5c-ef0d050041e6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Creational/AbstractFactory/AbstractFactoryTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Creational/AbstractFactory/Test/1.php" beforeDir="false" afterPath="$PROJECT_DIR$/Creational/AbstractFactory/Test/AbstractFactoryTest.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,34 +40,38 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Creational/AbstractFactory/AbstractFactoryTest.php">
+        <entry file="file://$PROJECT_DIR$/Creational/AbstractFactory/Test/AbstractFactoryTest.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+            <state relative-caret-position="50">
+              <caret line="2" column="36" lean-forward="true" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
               <folding>
-                <element signature="e#50#96#0#PHP" expanded="true" />
-                <element signature="e#559#785#0#PHP" expanded="true" />
-                <element signature="e#790#1017#0#PHP" expanded="true" />
-                <element signature="e#1022#1253#0#PHP" expanded="true" />
+                <element signature="n#AbstractFactoryTest#0;n#!!top" expanded="true" />
+                <element signature="n#testCanCreateDigitalProduct#0;n#AbstractFactoryTest#0;n#!!top" expanded="true" />
+                <element signature="n#testCanCreateShippableProduct#0;n#AbstractFactoryTest#0;n#!!top" expanded="true" />
+                <element signature="n#testCanCalculatePriceForDigitalProduct#0;n#AbstractFactoryTest#0;n#!!top" expanded="true" />
+                <element signature="n#testCanCalculatePriceForShippableProduct#0;n#AbstractFactoryTest#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Creational/AbstractFactory/Test/1.php">
+        <entry file="file://$PROJECT_DIR$/Creational/AbstractFactory/DigitalProduct.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="250">
+              <caret line="12" column="41" lean-forward="true" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
               <folding>
-                <element signature="n#AbstractFactoryTest#0;n#!!top" expanded="true" />
-                <element signature="n#testCanCreateDigitalProduct#0;n#AbstractFactoryTest#0;n#!!top" expanded="true" />
+                <element signature="e#142#224#0#PHP" expanded="true" />
+                <element signature="e#229#307#0#PHP" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -77,12 +85,13 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -150,15 +159,15 @@
       <option name="presentableId" value="Default" />
       <updated>1561966663800</updated>
       <workItem from="1561966665220" duration="20000" />
-      <workItem from="1561966724211" duration="3178000" />
+      <workItem from="1561966724211" duration="3875000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3198000" />
+    <option name="totallyTimeSpent" value="3895000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
@@ -236,6 +245,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa0.731/DesignPatternsPHP-master/Creational/AbstractFactory/Tests/AbstractFactoryTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="15" lean-forward="true" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+          <folding>
+            <element signature="e#288#1265#0#PHP" expanded="true" />
+            <element signature="e#337#558#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Creational/AbstractFactory/AbstractFactoryTest.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -249,37 +269,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa0.731/DesignPatternsPHP-master/Creational/AbstractFactory/Tests/AbstractFactoryTest.php">
+    <entry file="file://$PROJECT_DIR$/Creational/AbstractFactory/Test/AbstractFactoryTest.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="15" lean-forward="true" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+        <state relative-caret-position="50">
+          <caret line="2" column="36" lean-forward="true" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
           <folding>
-            <element signature="e#288#1265#0#PHP" expanded="true" />
-            <element signature="e#337#558#0#PHP" expanded="true" />
+            <element signature="n#AbstractFactoryTest#0;n#!!top" expanded="true" />
+            <element signature="n#testCanCreateDigitalProduct#0;n#AbstractFactoryTest#0;n#!!top" expanded="true" />
+            <element signature="n#testCanCreateShippableProduct#0;n#AbstractFactoryTest#0;n#!!top" expanded="true" />
+            <element signature="n#testCanCalculatePriceForDigitalProduct#0;n#AbstractFactoryTest#0;n#!!top" expanded="true" />
+            <element signature="n#testCanCalculatePriceForShippableProduct#0;n#AbstractFactoryTest#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Creational/AbstractFactory/DigitalProduct.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="36" lean-forward="true" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+        <state relative-caret-position="250">
+          <caret line="12" column="41" lean-forward="true" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
           <folding>
-            <element signature="e#59#324#1#PHP" expanded="true" />
-            <element signature="e#105#132#0#PHP" expanded="true" />
-            <element signature="e#157#239#0#PHP" expanded="true" />
-            <element signature="e#244#322#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Creational/AbstractFactory/Test/1.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="n#AbstractFactoryTest#0;n#!!top" expanded="true" />
-            <element signature="n#testCanCreateDigitalProduct#0;n#AbstractFactoryTest#0;n#!!top" expanded="true" />
+            <element signature="e#142#224#0#PHP" expanded="true" />
+            <element signature="e#229#307#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
