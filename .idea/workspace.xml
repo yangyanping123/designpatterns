@@ -1,10 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/Creational/Singleton/Singleton.php" line="31" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="81862ec9-c9ff-45a9-8b5c-ef0d050041e6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Creational/AbstractFactory/AnimalFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational/AbstractFactory/BlackAnimalFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational/AbstractFactory/BlackCat.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational/AbstractFactory/BlackDog.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational/AbstractFactory/Cat.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational/AbstractFactory/Dog.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational/AbstractFactory/Test.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational/AbstractFactory/WhiteAnimalFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational/AbstractFactory/WhiteCat.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational/AbstractFactory/WhiteDog.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational/AbstractFactory/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational/Builder/Bird.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational/Builder/BirdBuilder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational/Builder/BlueBird.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational/Builder/Director.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational/Builder/RoseBird.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational/Builder/Test.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational/Builder/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational/Prototype/Prototype.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational/Prototype/PrototypeAbstract.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational/Prototype/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational/Prototype/test.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational/SimpleFactory/Bike.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational/SimpleFactory/Bus.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational/SimpleFactory/Car.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational/SimpleFactory/Test.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational/SimpleFactory/TranFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational/SimpleFactory/Transport.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational/SimpleFactory/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational/Singleton/Singleton.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Creational/AbstractFactory/AbstractFactoryTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Creational/AbstractFactory/Test/1.php" beforeDir="false" afterPath="$PROJECT_DIR$/Creational/AbstractFactory/Test/AbstractFactoryTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Creational/AbstractFactory/DigitalProduct.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Creational/AbstractFactory/Product.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Creational/AbstractFactory/ProductFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Creational/AbstractFactory/ShippableProduct.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Creational/AbstractFactory/Test/AbstractFactoryTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatternsPHP-master.zip" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,57 +51,27 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Creational/AbstractFactory/Product.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-              <folding>
-                <element signature="e#49#79#1#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Creational/AbstractFactory/ProductFactory.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" column="54" lean-forward="true" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
-              <folding>
-                <element signature="e#141#279#0#PHP" expanded="true" />
-                <element signature="e#284#396#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Creational/AbstractFactory/Test/AbstractFactoryTest.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="2" column="36" lean-forward="true" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
-              <folding>
-                <element signature="n#AbstractFactoryTest#0;n#!!top" expanded="true" />
-                <element signature="n#testCanCreateDigitalProduct#0;n#AbstractFactoryTest#0;n#!!top" expanded="true" />
-                <element signature="n#testCanCreateShippableProduct#0;n#AbstractFactoryTest#0;n#!!top" expanded="true" />
-                <element signature="n#testCanCalculatePriceForDigitalProduct#0;n#AbstractFactoryTest#0;n#!!top" expanded="true" />
-                <element signature="n#testCanCalculatePriceForShippableProduct#0;n#AbstractFactoryTest#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Creational/AbstractFactory/DigitalProduct.php">
+        <entry file="file://$PROJECT_DIR$/Creational/Prototype/Prototype.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="12" column="41" lean-forward="true" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+            <state relative-caret-position="332">
+              <caret line="36" column="22" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
               <folding>
-                <element signature="e#142#224#0#PHP" expanded="true" />
-                <element signature="e#229#307#0#PHP" expanded="true" />
+                <element signature="e#28#43#0#PHP" expanded="true" />
+                <element signature="e#165#236#0#PHP" expanded="true" />
+                <element signature="e#333#410#0#PHP" expanded="true" />
+                <element signature="e#590#653#0#PHP" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Creational/Prototype/test.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="14" column="45" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -78,26 +86,70 @@
       <list>
         <option value="$PROJECT_DIR$/Creational/AbstractFactory/ShippableProduct.php" />
         <option value="$PROJECT_DIR$/Creational/AbstractFactory/Product.php" />
-        <option value="$PROJECT_DIR$/Creational/AbstractFactory/DigitalProduct.php" />
-        <option value="$PROJECT_DIR$/Creational/AbstractFactory/ProductFactory.php" />
         <option value="$PROJECT_DIR$/Creational/AbstractFactory/AbstractFactoryTest.php" />
         <option value="$PROJECT_DIR$/Creational/AbstractFactory/Test/1.php" />
+        <option value="$PROJECT_DIR$/Creational/AbstractFactory/DigitalProduct.php" />
+        <option value="$PROJECT_DIR$/Creational/AbstractFactory/Test/AbstractFactoryTest.php" />
+        <option value="$PROJECT_DIR$/Creational/AbstractFactory/ProductFactory.php" />
+        <option value="$PROJECT_DIR$/readme.txt" />
+        <option value="$PROJECT_DIR$/Creational/Singleton/Singleton.php" />
+        <option value="$PROJECT_DIR$/Creational/Factory/Factory.php" />
+        <option value="$PROJECT_DIR$/Creational/simpleFactory/Transport.php" />
+        <option value="$PROJECT_DIR$/Creational/simpleFactory/Factory.php" />
+        <option value="$PROJECT_DIR$/Creational/simpleFactory/Bus.php" />
+        <option value="$PROJECT_DIR$/Creational/simpleFactory/Bike.php" />
+        <option value="$PROJECT_DIR$/Creational/simpleFactory/Car.php" />
+        <option value="$PROJECT_DIR$/Creational/simpleFactory/tranFactory.php" />
+        <option value="$PROJECT_DIR$/Creational/SimpleFactory/tranFactory.php" />
+        <option value="$PROJECT_DIR$/Creational/SimpleFactory/11.php" />
+        <option value="$PROJECT_DIR$/Creational/SimpleFactory/Bike.php" />
+        <option value="$PROJECT_DIR$/Creational/SimpleFactory/Bus.php" />
+        <option value="$PROJECT_DIR$/Creational/SimpleFactory/Car.php" />
+        <option value="$PROJECT_DIR$/Creational/SimpleFactory/Transport.php" />
+        <option value="$PROJECT_DIR$/Creational/SimpleFactory/TranFactory.php" />
+        <option value="$PROJECT_DIR$/Creational/SimpleFactory/Test.php" />
+        <option value="$PROJECT_DIR$/Creational/SimpleFactory/readme.txt" />
+        <option value="$PROJECT_DIR$/Creational/AbstractFactory/DogAnimalFactory.php" />
+        <option value="$PROJECT_DIR$/Creational/AbstractFactory/Test.php" />
+        <option value="$PROJECT_DIR$/Creational/AbstractFactory/WhiteCat.php" />
+        <option value="$PROJECT_DIR$/Creational/AbstractFactory/WhiteDog.php" />
+        <option value="$PROJECT_DIR$/Creational/Builder/readme.txt" />
+        <option value="$PROJECT_DIR$/Creational/AbstractFactory/AnimalFactory.php" />
+        <option value="$PROJECT_DIR$/Creational/AbstractFactory/BlackAnimalFactory.php" />
+        <option value="$PROJECT_DIR$/Creational/AbstractFactory/WhiteAnimalFactory.php" />
+        <option value="$PROJECT_DIR$/Creational/AbstractFactory/Dog.php" />
+        <option value="$PROJECT_DIR$/Creational/AbstractFactory/Cat.php" />
+        <option value="$PROJECT_DIR$/Creational/AbstractFactory/BlackCat.php" />
+        <option value="$PROJECT_DIR$/Creational/AbstractFactory/BlackDog.php" />
+        <option value="$PROJECT_DIR$/Creational/Builder/Bird.php" />
+        <option value="$PROJECT_DIR$/Creational/Builder/BirdBuilder.php" />
+        <option value="$PROJECT_DIR$/Creational/Builder/BlueBird.php" />
+        <option value="$PROJECT_DIR$/Creational/Builder/RoseBird.php" />
+        <option value="$PROJECT_DIR$/Creational/Builder/Director.php" />
+        <option value="$PROJECT_DIR$/Creational/Builder/Test.php" />
+        <option value="$PROJECT_DIR$/Creational/AbstractFactory/readme.txt" />
+        <option value="$PROJECT_DIR$/Creational/Prototype/readme.txt" />
+        <option value="$PROJECT_DIR$/Creational/Prototype/Map.php" />
+        <option value="$PROJECT_DIR$/Creational/Prototype/Sea.php" />
+        <option value="$PROJECT_DIR$/Creational/Prototype/test.php" />
+        <option value="$PROJECT_DIR$/Creational/Prototype/Prototype.php" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="339" />
+    <option name="y" value="94" />
+    <option name="width" value="1400" />
+    <option name="height" value="989" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -110,31 +162,24 @@
               <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
               <item name="Creational" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
-              <item name="Creational" type="462c0819:PsiDirectoryNode" />
-              <item name="AbstractFactory" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
-              <item name="Creational" type="462c0819:PsiDirectoryNode" />
-              <item name="AbstractFactory" type="462c0819:PsiDirectoryNode" />
-              <item name="Test" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Creational/AbstractFactory" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\lamp\Apache24\htdocs\DesignPatterns\Creational\AbstractFactory" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -159,18 +204,18 @@
       <option name="presentableId" value="Default" />
       <updated>1561966663800</updated>
       <workItem from="1561966665220" duration="20000" />
-      <workItem from="1561966724211" duration="3875000" />
+      <workItem from="1561966724211" duration="6600000" />
+      <workItem from="1562031566965" duration="18753000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3895000" />
+    <option name="totallyTimeSpent" value="25373000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="true" />
+    <frame x="339" y="94" width="1400" height="989" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22014925" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -183,7 +228,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.1448598" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -217,79 +262,376 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Creational/AbstractFactory/Product.php">
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa0.731/DesignPatternsPHP-master/Creational/AbstractFactory/Tests/AbstractFactoryTest.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        <state relative-caret-position="175">
+          <caret line="7" column="15" lean-forward="true" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Creational/AbstractFactory/AbstractFactoryTest.php" />
+    <entry file="file://$PROJECT_DIR$/DesignPatternsPHP-master/vendor/phpunit/phpunit/src/Framework/TestCase.php" />
+    <entry file="file://$PROJECT_DIR$/DesignPatternsPHP-master/Creational/AbstractFactory/README.rst" />
+    <entry file="file://$PROJECT_DIR$/Creational/AbstractFactory/DigitalProduct.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
           <folding>
-            <element signature="e#49#79#1#PHP" expanded="true" />
+            <element signature="e#229#306#0#PHP" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignPatternsPHP-master/composer.json" />
+    <entry file="file://$PROJECT_DIR$/Creational/AbstractFactory/Test/AbstractFactoryTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Creational/AbstractFactory/ProductFactory.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="54" lean-forward="true" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
+        <state relative-caret-position="175">
+          <caret line="10" column="54" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Creational/AbstractFactory/Product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Creational/Singleton/Singleton.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="61" column="12" selection-start-line="61" selection-start-column="12" selection-end-line="61" selection-end-column="12" />
           <folding>
-            <element signature="e#141#279#0#PHP" expanded="true" />
-            <element signature="e#284#396#0#PHP" expanded="true" />
+            <element signature="e#803#829#0#PHP" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Creational/SimpleFactory/11.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Creational/SimpleFactory/Bus.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+          <folding>
+            <element signature="e#26#128#1#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Creational/SimpleFactory/Bike.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="23" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="23" />
+          <folding>
+            <element signature="e#25#124#1#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Creational/SimpleFactory/Transport.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+          <folding>
+            <element signature="e#26#76#1#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Creational/SimpleFactory/TranFactory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+          <folding>
+            <element signature="e#25#64#0#PHP" expanded="true" />
+            <element signature="e#65#514#0#PHP" expanded="true" />
+            <element signature="e#91#510#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Creational/SimpleFactory/Car.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <folding>
+            <element signature="e#31#128#1#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Creational/SimpleFactory/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="60" selection-start-column="60" selection-end-column="60" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Creational/AbstractFactory/Test.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa0.731/DesignPatternsPHP-master/Creational/AbstractFactory/Tests/AbstractFactoryTest.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="15" lean-forward="true" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+        <state relative-caret-position="200">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
           <folding>
-            <element signature="e#288#1265#0#PHP" expanded="true" />
-            <element signature="e#337#558#0#PHP" expanded="true" />
+            <element signature="n#autoload#0;n#!!top" expanded="true" />
+            <element signature="n#Test#0;n#!!top" expanded="true" />
+            <element signature="n#main#0;n#Test#0;n#!!top" expanded="true" />
+            <element signature="n#run#0;n#Test#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Creational/AbstractFactory/AbstractFactoryTest.php">
+    <entry file="file://$PROJECT_DIR$/Creational/AbstractFactory/WhiteCat.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        <state relative-caret-position="125">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Creational/AbstractFactory/WhiteDog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Creational/AbstractFactory/uml.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="51" selection-start-line="3" selection-start-column="51" selection-end-line="3" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Creational/AbstractFactory/AnimalFactory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
           <folding>
-            <element signature="e#50#96#0#PHP" expanded="true" />
-            <element signature="e#559#785#0#PHP" expanded="true" />
-            <element signature="e#790#1017#0#PHP" expanded="true" />
-            <element signature="e#1022#1253#0#PHP" expanded="true" />
+            <element signature="e#33#125#1#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Creational/AbstractFactory/Test/AbstractFactoryTest.php">
+    <entry file="file://$PROJECT_DIR$/Creational/AbstractFactory/BlackAnimalFactory.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
-          <caret line="2" column="36" lean-forward="true" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
           <folding>
-            <element signature="n#AbstractFactoryTest#0;n#!!top" expanded="true" />
-            <element signature="n#testCanCreateDigitalProduct#0;n#AbstractFactoryTest#0;n#!!top" expanded="true" />
-            <element signature="n#testCanCreateShippableProduct#0;n#AbstractFactoryTest#0;n#!!top" expanded="true" />
-            <element signature="n#testCanCalculatePriceForDigitalProduct#0;n#AbstractFactoryTest#0;n#!!top" expanded="true" />
-            <element signature="n#testCanCalculatePriceForShippableProduct#0;n#AbstractFactoryTest#0;n#!!top" expanded="true" />
+            <element signature="e#33#237#1#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Creational/AbstractFactory/DigitalProduct.php">
+    <entry file="file://$PROJECT_DIR$/Creational/AbstractFactory/WhiteAnimalFactory.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="12" column="41" lean-forward="true" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+        <state relative-caret-position="175">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
           <folding>
-            <element signature="e#142#224#0#PHP" expanded="true" />
-            <element signature="e#229#307#0#PHP" expanded="true" />
+            <element signature="e#33#239#1#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Creational/AbstractFactory/Cat.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+          <folding>
+            <element signature="e#33#78#1#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Creational/AbstractFactory/Dog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding>
+            <element signature="e#33#78#1#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Creational/AbstractFactory/BlackCat.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <folding>
+            <element signature="e#33#130#1#PHP" expanded="true" />
+            <element signature="e#68#128#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Creational/AbstractFactory/BlackDog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="29" lean-forward="true" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+          <folding>
+            <element signature="e#70#129#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Creational/Builder/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Creational/SimpleFactory/Test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" selection-start-line="2" selection-end-line="6" selection-end-column="1" />
+          <folding>
+            <element signature="n#autoload#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Creational/Builder/BirdBuilder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="16" column="34" lean-forward="true" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+          <folding>
+            <element signature="e#26#86#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Creational/Builder/Bird.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#30#47#0#PHP" expanded="true" />
+            <element signature="e#134#288#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Creational/Builder/RoseBird.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+          <folding>
+            <element signature="e#26#91#0#PHP" expanded="true" />
+            <element signature="e#92#613#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Creational/Builder/BlueBird.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+          <folding>
+            <element signature="e#26#90#0#PHP" expanded="true" />
+            <element signature="e#91#611#0#PHP" expanded="true" />
+            <element signature="e#135#252#0#PHP" expanded="true" />
+            <element signature="e#258#375#0#PHP" expanded="true" />
+            <element signature="e#381#498#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Creational/Builder/Director.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#26#40#0#PHP" expanded="true" />
+            <element signature="e#62#140#0#PHP" expanded="true" />
+            <element signature="e#144#326#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Creational/Prototype/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="38" selection-start-line="1" selection-end-line="7" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Creational/AbstractFactory/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="634">
+          <caret line="31" column="11" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Creational/Builder/Test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" selection-start-line="1" selection-end-line="5" selection-end-column="1" />
+          <folding>
+            <element signature="n#autoload#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Creational/Prototype/Sea.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Creational/Prototype/Map.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          <folding>
+            <element signature="e#188#270#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Creational/Prototype/PrototypeAbstract.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="21" />
+          <folding>
+            <element signature="e#28#43#0#PHP" expanded="true" />
+            <element signature="e#44#319#0#PHP" expanded="true" />
+            <element signature="e#228#274#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Creational/Prototype/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="14" column="45" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Creational/Prototype/Prototype.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="36" column="22" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
+          <folding>
+            <element signature="e#28#43#0#PHP" expanded="true" />
+            <element signature="e#165#236#0#PHP" expanded="true" />
+            <element signature="e#333#410#0#PHP" expanded="true" />
+            <element signature="e#590#653#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
