@@ -5,46 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81862ec9-c9ff-45a9-8b5c-ef0d050041e6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Structural/Adapter/IDatabase.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Structural/Adapter/Mysql.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Structural/Adapter/Mysqli.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Structural/Adapter/Pdo.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Structural/Adapter/Postgresql.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Structural/Adapter/Test.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Structural/Adapter/readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Structural/Bridge/Briages.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Structural/Bridge/NonBridge/CommonPhoneMsg.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Structural/Bridge/NonBridge/CommonSmsMsg.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Structural/Bridge/NonBridge/CommonZnMsg.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Structural/Bridge/NonBridge/DangerPhoneMsg.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Structural/Bridge/NonBridge/DangerSmsMsg.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Structural/Bridge/NonBridge/DangerZnMsg.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Structural/Bridge/NonBridge/Msg.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Structural/Bridge/NonBridge/PhoneMsg.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Structural/Bridge/NonBridge/SmsMsg.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Structural/Bridge/NonBridge/WarnPhoneMsg.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Structural/Bridge/NonBridge/WarnSmsMsg.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Structural/Bridge/NonBridge/WarnZnMsg.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Structural/Bridge/NonBridge/ZnMsg.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Structural/Bridge/NonBridge/test.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Structural/Bridge/UseBridge/CommonInfo.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Structural/Bridge/UseBridge/DangerInfo.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Structural/Bridge/UseBridge/Info.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Structural/Bridge/UseBridge/Msg.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Structural/Bridge/UseBridge/PhoneMsg.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Structural/Bridge/UseBridge/SmsMsg.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Structural/Bridge/UseBridge/WarnInfo.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Structural/Bridge/UseBridge/ZnMsg.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Structural/Bridge/UseBridge/test.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Structural/Bridge/readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Structural/Command/test.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Structural/Composite/Commerce.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Structural/Composite/Company.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Structural/Composite/CompanyBase.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Structural/Composite/HumanResources.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Structural/Composite/readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Structural/Composite/test.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Structural/DataMapper/readme.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/readme.txt" afterDir="false" />
     </list>
@@ -55,78 +15,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Structural/Composite/Commerce.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
-              <folding>
-                <element signature="e#29#83#0#PHP" expanded="true" />
-                <element signature="e#127#220#0#PHP" expanded="true" />
-                <element signature="e#244#338#0#PHP" expanded="true" />
-                <element signature="e#356#470#0#PHP" expanded="true" />
-                <element signature="e#478#603#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Structural/Composite/test.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="20" column="15" lean-forward="true" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
-              <folding>
-                <element signature="e#176#205#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Structural/DataMapper/readme.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
-              <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Structural/Command/test.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="656">
-              <caret line="115" column="30" selection-start-line="115" selection-start-column="30" selection-end-line="115" selection-end-column="30" />
-              <folding>
-                <element signature="n#Command#0;n#!!top" expanded="true" />
-                <element signature="n#Invoker#0;n#!!top" expanded="true" />
-                <element signature="n#setCommand#0;n#Invoker#0;n#!!top" expanded="true" />
-                <element signature="n#executeCommand#0;n#Invoker#0;n#!!top" expanded="true" />
-                <element signature="n#removeCommand#0;n#Invoker#0;n#!!top" expanded="true" />
-                <element signature="n#Receiver#0;n#!!top" expanded="true" />
-                <element signature="n#__construct#0;n#Receiver#0;n#!!top" expanded="true" />
-                <element signature="n#action#0;n#Receiver#0;n#!!top" expanded="true" />
-                <element signature="n#action1#0;n#Receiver#0;n#!!top" expanded="true" />
-                <element signature="n#ConcreteCommand#0;n#!!top" expanded="true" />
-                <element signature="n#__construct#0;n#ConcreteCommand#0;n#!!top" expanded="true" />
-                <element signature="n#execute#0;n#ConcreteCommand#0;n#!!top" expanded="true" />
-                <element signature="n#ConcreteCommand1#0;n#!!top" expanded="true" />
-                <element signature="n#__construct#0;n#ConcreteCommand1#0;n#!!top" expanded="true" />
-                <element signature="n#execute#0;n#ConcreteCommand1#0;n#!!top" expanded="true" />
-                <element signature="n#ConcreteCommand2#0;n#!!top" expanded="true" />
-                <element signature="n#__construct#0;n#ConcreteCommand2#0;n#!!top" expanded="true" />
-                <element signature="n#execute#0;n#ConcreteCommand2#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/readme.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+            <state relative-caret-position="150">
+              <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="11" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -193,11 +87,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="294" />
-    <option name="y" value="578" />
-    <option name="width" value="1199" />
-    <option name="height" value="636" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -207,6 +101,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -214,16 +109,10 @@
               <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
               <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
-              <item name="Structural" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -276,18 +165,18 @@
       <workItem from="1561966724211" duration="6600000" />
       <workItem from="1562031566965" duration="19949000" />
       <workItem from="1562116850028" duration="992000" />
-      <workItem from="1562133799132" duration="13511000" />
+      <workItem from="1562133799132" duration="14490000" />
+      <workItem from="1562202544436" duration="3622000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41072000" />
+    <option name="totallyTimeSpent" value="45673000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="294" y="578" width="1199" height="636" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25636524" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15724947" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -356,16 +245,6 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="50">
-            <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Creational/Prototype/Prototype.php">
       <provider selected="true" editor-type-id="text-editor">
@@ -819,16 +698,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Structural/DataMapper/readme.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Structural/Command/test.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="656">
+        <state relative-caret-position="723">
           <caret line="115" column="30" selection-start-line="115" selection-start-column="30" selection-end-line="115" selection-end-column="30" />
           <folding>
             <element signature="n#Command#0;n#!!top" expanded="true" />
@@ -853,10 +725,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Structural/DataMapper/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="50">
+            <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/readme.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+        <state relative-caret-position="150">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="11" selection-end-column="32" />
         </state>
       </provider>
     </entry>
